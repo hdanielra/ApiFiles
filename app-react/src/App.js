@@ -3,9 +3,6 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import axios from "axios";
 import MaterialTable from 'material-table';
-// import { AddBox, ArrowDownward } from "@material-ui/icons";
-// import AddBox from "@material-ui/icons/AddBox";
-// import ArrowDownward from "@material-ui/icons/ArrowDownward";
 import tableIcons from "./MaterialTableIcons";
 
 
@@ -50,8 +47,7 @@ function App() {
               render: row => 
                 <span>CAD{ 
                   //currency format
-                  Intl.NumberFormat('en-CA', { currency: 'CAD', style: 'currency', }).format(row["price"] ) // 'CA$ 100.00'    
-                  // number.toLocaleString('en-CA', { style: 'currency', currency: 'CAD' });
+                  Intl.NumberFormat('en-CA', { currency: 'CAD', style: 'currency', }).format(row["price"] ) // 'CA$ 100.00'   
                   }
                 </span>  
     },
@@ -59,31 +55,7 @@ function App() {
   ];
 
 
-  // let data = []
-    // let data = [
-    //     {
-    //         dealNumber: 5469,
-    //         customerName: "Milli Fulton",
-    //         dealershipName: "Sun of Saskatoon",
-    //         vehicle: "2017 Ferrari 488 Spider",
-    //         price: 429987,
-    //         date: "2018-06-19T00:00:00"
-    //     },
-    //     {
-    //         dealNumber: 5132,
-    //         customerName: "Rahima Skinner",
-    //         dealershipName: "Seven Star Dealership",
-    //         vehicle: "2009 Lamborghini Gallardo Carbon Fiber LP-560",
-    //         price: 169900,
-    //         date: "2018-01-14T00:00:00"
-    //     }
-    // ]
-  // ---
-
-
   const [file, setFile] = useState(null);
-  // const [tableRef, setTableRef] = useState(null);
-  // const tableRef = React.createRef();
 
   const uploadFile = e=> {
     setFile(e);
@@ -94,21 +66,8 @@ function App() {
     const f =  new FormData();
 
     f.append("file", file[0]);
-    // for (let index = 0; index < file.length; index++) {
-    //   f.append("file", file[index]);
-      
-    // }
-
-    // await axios.post("https://localhost:44367/api/Files/PostFiles", f)
-    // await axios.post("https://localhost:44367/api/Files/PostFiles", 
-    //                 f, 
-    //                 {headers: {'Content-Type':'multipart/form-data'}}
-    //                 )
-
-    
 
 
-    // await axios.post("https://localhost:44329/api/Sales/UploadFileCsv", f)
     await axios.post(baseUrl + "/UploadFileCsv", f)
     .then(
       response => {
