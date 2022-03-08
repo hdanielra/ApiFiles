@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "322503ad-fac6-4832-9cb4-b63f9717088d": {
+      "ProjectGuid": "322503ad-fac6-4832-9cb4-b63f9717088d",
+      "DisplayName": "ApiFiles",
+      "ColorIndex": 0
+    },
+    "f3037427-5eb0-464f-86f1-a869a932564e": {
+      "ProjectGuid": "f3037427-5eb0-464f-86f1-a869a932564e",
+      "DisplayName": "Contracts",
+      "ColorIndex": 1
+    },
+    "e30e9bbe-56a5-47f9-9188-778e2df4942c": {
+      "ProjectGuid": "e30e9bbe-56a5-47f9-9188-778e2df4942c",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "656fd966-97e4-4822-b84b-c346c69867aa": {
+      "ProjectGuid": "656fd966-97e4-4822-b84b-c346c69867aa",
+      "DisplayName": "Repository",
+      "ColorIndex": 3
+    },
+    "6e01e501-4984-44db-83de-19049875d293": {
+      "ProjectGuid": "6e01e501-4984-44db-83de-19049875d293",
+      "DisplayName": "ApiCsv",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "1ba1a6c3-43de-4571-9bb6-ad7c4ddec03f": {
+      "ProjectGuid": "1ba1a6c3-43de-4571-9bb6-ad7c4ddec03f",
+      "DisplayName": "ApiCsv.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,17 @@
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\bin\Debug\net5.0\Repository.deps.json
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\bin\Debug\net5.0\Repository.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\bin\Debug\net5.0\ref\Repository.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\bin\Debug\net5.0\Repository.pdb
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\bin\Debug\net5.0\Contracts.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\bin\Debug\net5.0\Entities.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\bin\Debug\net5.0\Contracts.pdb
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\bin\Debug\net5.0\Entities.pdb
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\Repository.csproj.AssemblyReference.cache
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\Repository.AssemblyInfoInputs.cache
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\Repository.AssemblyInfo.cs
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\Repository.csproj.CoreCompileInputs.cache
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\Repository.csproj.CopyComplete
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\Repository.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\ref\Repository.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Repository\obj\Debug\net5.0\Repository.pdb

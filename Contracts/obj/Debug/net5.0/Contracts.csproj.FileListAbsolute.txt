@@ -1,0 +1,15 @@
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\bin\Debug\net5.0\Contracts.deps.json
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\bin\Debug\net5.0\Contracts.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\bin\Debug\net5.0\ref\Contracts.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\bin\Debug\net5.0\Contracts.pdb
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\bin\Debug\net5.0\Entities.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\bin\Debug\net5.0\Entities.pdb
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\Contracts.csproj.CopyComplete
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\Contracts.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\ref\Contracts.dll
+D:\1 Trabajo\2022\Cursos\Net\Pru\ApiFiles\Contracts\obj\Debug\net5.0\Contracts.pdb
