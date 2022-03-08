@@ -12,7 +12,6 @@ namespace ApiCsv.Utils
         public MappingProfile()
         {
 
-            //_ = CreateMap<Sales, SalesRequest>().ReverseMap();
 
             _ = CreateMap<SalesFile, Sales>()
                 .ForMember(d => d.DealNumber, o => o.MapFrom(s => s.DealNumber))
