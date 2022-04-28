@@ -14,6 +14,7 @@ namespace ApiCsv.Tests
             var options = new DbContextOptionsBuilder<MemoryContext>()
                 .UseInMemoryDatabase(databaseName: Guid.NewGuid().ToString())
                 .Options;
+
             var databaseContext = new MemoryContext(options);
             databaseContext.Database.EnsureCreated();
 

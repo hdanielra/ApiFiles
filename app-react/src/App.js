@@ -9,8 +9,6 @@ import tableIcons from "./MaterialTableIcons";
 const baseUrl = "https://localhost:44329/api/Sales";
 
 function App() {
-// class App extends Component {
-
 
   const [data, setData] = useState([]);
   const [best, setBest] = useState([]);
@@ -57,7 +55,7 @@ function App() {
 
   const [file, setFile] = useState(null);
 
-  const uploadFile = e=> {
+  const uploadFile = e => {
     setFile(e);
   }
 
@@ -98,7 +96,8 @@ function App() {
 
       <div style={{padding: "20px"}}>
         <h3 className='display-6 text-left'  style={{backgroundColor: "lightblue"}}>
-        The most frequently sold vehicle : <span style={{color: "Tomato"}}>{ best } </span></h3>         
+          The most frequently sold vehicle : <span style={{color: "Tomato"}}>{ best } </span>
+        </h3>         
       </div>
 
       

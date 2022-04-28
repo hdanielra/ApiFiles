@@ -1,12 +1,9 @@
-﻿using ApiCsv.Services;
-using Contracts;
-using Entities;
+﻿using Entities;
 using Entities.Models;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Moq;
-using Repository;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -16,16 +13,11 @@ namespace ApiCsv.Tests.Uploads
     [TestClass]
     public class SalesUploadTest
     {
-
-        private List<Sales> _listSales;
-        private MemoryContext _memoryContext;
         private Mock<IWebHostEnvironment> _webEnvironment;
 
         [TestInitialize]
         public void Initialize()
         {
-            _listSales = FakeDbContext.GetListSales();
-            _memoryContext = FakeDbContext.GetDatabaseContext(_listSales);
             _webEnvironment = new Mock<IWebHostEnvironment>();
         }
 
